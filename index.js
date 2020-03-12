@@ -124,7 +124,7 @@ function getName({name}) {
  * 
  * @instructions
  * This function takes as its only argument an array 
- * containing strings,
+ * containing strings,                                 
  * and returns the index in the array of the string 'apple'.
  * 
  * You may assume the string 'apple' will appear exactly 
